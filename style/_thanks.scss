@@ -1,0 +1,20 @@
+.thanks {
+
+    &__body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    &__img {
+        max-width: 200px;
+    }
+
+    &__title {
+        padding: 40px 0;
+        text-align: center;
+    }
+
+}
